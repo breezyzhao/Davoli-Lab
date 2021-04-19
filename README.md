@@ -3,5 +3,5 @@ The scripts and data is only for the paper:"Immune evasion in HPV-negative head 
 
 Please contact Xin Zhao (xin.zhao@nyumc.org) if you have any question for the data and scripts;
 
-# For the clinical data
+# For the oral precaner clinical data
 Please contact William N. William (william.william@bp.org.br) and J. Jack Lee (jjlee@mdanderson.org)
